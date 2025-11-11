@@ -100,4 +100,3 @@ Por defecto el servidor se levanta en el puerto definido en `global/environment.
 MIT — Puedes usar y modificar este proyecto libremente.  
 ---
 
-© 2025 Klerith
